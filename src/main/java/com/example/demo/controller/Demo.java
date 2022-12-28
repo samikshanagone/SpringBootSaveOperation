@@ -1,5 +1,10 @@
 public class Demo{
   
-  //new class is added
+ public static void main(String[] args) {
+	String str="samiksha is best";
+	
+	System.out.println(str);
+	
+}
   
 }
