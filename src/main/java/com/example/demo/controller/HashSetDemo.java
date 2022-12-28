@@ -10,6 +10,8 @@ public static void main(String[] args) {
 	hs.add("maya");
 	hs.add("riya");
 	
-	System.out.println(hs);
+	for(String s:i){
+		System.out.println(i);
+	}
 }
 }
