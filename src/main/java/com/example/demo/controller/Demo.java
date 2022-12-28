@@ -4,6 +4,7 @@ public class Demo{
 	String str="samiksha is best";
 	
 	System.out.println(str);
+	 System.out.println("hello java");
 	
 }
   
