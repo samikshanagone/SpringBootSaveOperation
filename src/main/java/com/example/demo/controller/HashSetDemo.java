@@ -10,6 +10,6 @@ public static void main(String[] args) {
 	hs.add("maya");
 	hs.add("riya");
 	
-	System.out.println(hs);
+	hs.forEach(x->System.out.println(x));
 }
 }
